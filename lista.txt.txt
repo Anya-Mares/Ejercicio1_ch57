@@ -4,3 +4,5 @@ Lista de frutas favoritas
 3.piña
 4.kiwi
 5.cereza
+6.zarzamora
+7.frambuesa
