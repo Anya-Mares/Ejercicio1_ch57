@@ -7,3 +7,5 @@ Lista de frutas favoritas
 6.zarzamora
 7.frambuesa
 8.papaya
+9.sandia 
+10.guanabana
